@@ -19,6 +19,6 @@ ScreenStream is an online movies and TV shows streaming platform, built as a par
 
 
 Contact
-If you have any questions or concerns regarding ScreenStream, please don't hesitate to reach out to us at [your email address or website].
+If you have any questions or concerns regarding ScreenStream, please don't hesitate to reach out to me at shubhamdhopat@gmail.com.
 
 Thank you for using ScreenStream! I hope you enjoy it.
